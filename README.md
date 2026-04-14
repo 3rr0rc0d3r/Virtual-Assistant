@@ -19,4 +19,4 @@ PREREQUISITES:
 
 4. A microphone (in-built or external; a normal headset's microphone would also work if detected proeprly).
 
-If you're unable to run or configure the code, mail me at devangverma@hotmail.com
+If you're unable to run or configure the code, feel free to e-mail me.
