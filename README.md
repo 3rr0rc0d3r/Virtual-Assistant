@@ -1,5 +1,5 @@
 NOTE: This is not the fully-working software. It just contains the GUI Java Swing app code and the __main.py__ file from
-SpeechRecognition library. If you need the fully-working project, mail me at devangverma@hotmail.com
+SpeechRecognition library. If you need the fully-working project, e-mail me.
 
 # Virtual-Assistant
 Python's SpeechRecognition API connected with Front-end GUI written in Java. 
